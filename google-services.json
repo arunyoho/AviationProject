@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829857880312",
+    "project_id": "lmsteacherproject",
+    "storage_bucket": "lmsteacherproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829857880312:android:c65e41b2b40adde22c830d",
+        "android_client_info": {
+          "package_name": "com.arunyoho30.AviationProject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUvkN4V7n7D7hP3LWB9cJOfqCh0ve7lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
